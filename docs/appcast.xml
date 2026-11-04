@@ -3,12 +3,12 @@
     <channel>
         <title>fPost</title>
         <item>
-            <title>2.0.0</title>
-            <pubDate>Mon, 12 Oct 2026 18:26:55 +0200</pubDate>
-            <sparkle:version>2</sparkle:version>
-            <sparkle:shortVersionString>2.0.0</sparkle:shortVersionString>
+            <title>2.0.1</title>
+            <pubDate>Wed, 04 Nov 2026 15:25:09 +0100</pubDate>
+            <sparkle:version>5</sparkle:version>
+            <sparkle:shortVersionString>2.0.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.5</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/Forte-Audio/fpost2-releases/releases/download/v2.0.0/fPost-2.0.0.zip" length="228141539" type="application/octet-stream" sparkle:edSignature="UaOqtYZ+do32usYRGLZPFHEZ5kbJPLaeQmK12OBaiGqcyPRdinsM4RFK/bxxxmwdKSq/XwXFHPyiaSI55RWaBQ=="/>
+            <enclosure url="https://github.com/Forte-Audio/fpost2-releases/releases/download/v2.0.1/fPost-2.0.1.zip" length="229791595" type="application/octet-stream" sparkle:edSignature="Vz48iy6ojdb6p10XiSi4D+BYxo3yED8pahpiTPLT1Q+Xu3FpJ22C7GlJoppfpipYJg2TXITwpGMDGw7RUip4Dg=="/>
         </item>
     </channel>
 </rss>
